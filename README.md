@@ -98,6 +98,7 @@ Scalability interpretation uses Amdahl’s law and GPU hardware concurrency anal
 ---
 
 ## Repository Structure
+```
 gpu-molecular-dynamics/
 │
 ├── README.md
@@ -109,10 +110,10 @@ gpu-molecular-dynamics/
 ├── cpu/
 │ └── md_cpu.cpp
 │
-├── gpu/
-│ └── md_cuda.cu
+└── gpu/
+└── md_cuda.cu
 
-
+```
 ---
 
 ## Build Instructions
